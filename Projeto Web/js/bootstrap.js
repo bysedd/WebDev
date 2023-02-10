@@ -16,8 +16,6 @@ if (typeof jQuery === 'undefined') {
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
 
-
-
 /* ========================================================================
  * Bootstrap: alert.js v3.1.0
  * http://getbootstrap.com/javascript/#alerts
@@ -25,8 +23,6 @@ if (typeof jQuery === 'undefined') {
  * Copyright 2011-2014 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
-
-
 
 /* ========================================================================
  * Bootstrap: button.js v3.1.0
@@ -36,8 +32,6 @@ if (typeof jQuery === 'undefined') {
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
 
-
-
 /* ========================================================================
  * Bootstrap: carousel.js v3.1.0
  * http://getbootstrap.com/javascript/#carousel
@@ -45,8 +39,6 @@ if (typeof jQuery === 'undefined') {
  * Copyright 2011-2014 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
-
-
 
 /* ========================================================================
  * Bootstrap: collapse.js v3.1.0
@@ -56,8 +48,6 @@ if (typeof jQuery === 'undefined') {
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
 
-
-
 /* ========================================================================
  * Bootstrap: dropdown.js v3.1.0
  * http://getbootstrap.com/javascript/#dropdowns
@@ -66,8 +56,6 @@ if (typeof jQuery === 'undefined') {
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
 
-
-
 /* ========================================================================
  * Bootstrap: modal.js v3.1.0
  * http://getbootstrap.com/javascript/#modals
@@ -75,8 +63,6 @@ if (typeof jQuery === 'undefined') {
  * Copyright 2011-2014 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
-
-
 
 /* ========================================================================
  * Bootstrap: tooltip.js v3.1.0
@@ -87,8 +73,6 @@ if (typeof jQuery === 'undefined') {
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
 
-
-
 /* ========================================================================
  * Bootstrap: popover.js v3.1.0
  * http://getbootstrap.com/javascript/#popovers
@@ -96,8 +80,6 @@ if (typeof jQuery === 'undefined') {
  * Copyright 2011-2014 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
-
-
 
 /* ========================================================================
  * Bootstrap: scrollspy.js v3.1.0
@@ -107,8 +89,6 @@ if (typeof jQuery === 'undefined') {
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
 
-
-
 /* ========================================================================
  * Bootstrap: tab.js v3.1.0
  * http://getbootstrap.com/javascript/#tabs
@@ -117,8 +97,6 @@ if (typeof jQuery === 'undefined') {
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
 
-
-
 /* ========================================================================
  * Bootstrap: affix.js v3.1.0
  * http://getbootstrap.com/javascript/#affix
@@ -126,5 +104,3 @@ if (typeof jQuery === 'undefined') {
  * Copyright 2011-2014 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
-
-
